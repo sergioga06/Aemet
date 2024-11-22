@@ -5,6 +5,6 @@ public class sggAemet {
     public static  String[] ciudades = {"Almeria", "Granada", "Cadiz", "Malaga", "Jaen", "Cordoba", "Huelva", "Sevilla" };
 
     public static void main(String[] args) {
-        sggRegCiudad v1 = new sggRegCiudad()  ;
+        sggRegCiudad v1 = new sggRegCiudad();
     }
 }
